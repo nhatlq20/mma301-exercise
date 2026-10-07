@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "jsx": "react-native",
+    "checkJs": false
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
+
